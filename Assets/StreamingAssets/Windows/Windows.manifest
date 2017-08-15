@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 989651925
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: charactor.u3d
+      Dependencies: {}
+    Info_1:
+      Name: modle/fruit.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: charactor/mod.assetbundle
+      Dependencies:
+        Dependency_0: modle/fruit.assetbundle
+    Info_3:
+      Name: main/ui.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: main.u3d
+      Dependencies: {}

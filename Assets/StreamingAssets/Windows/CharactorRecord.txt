@@ -1,0 +1,3 @@
+2
+Mod charactor/mod.assetbundle
+Charactor charactor.u3d

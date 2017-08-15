@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2746972781
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b6274eb28131601e284eb5fb929dd22
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7cbc20d51cb013cef91a40dcbe43379b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Charactor/Mod/Max4.prefab
+- Assets/Res/Charactor/Mod/Max/Max.prefab
+- Assets/Res/Charactor/Mod/Max/Max3.prefab
+- Assets/Res/Charactor/Mod/Max/Max2.prefab
+Dependencies:
+- C:/Users/Administrator/Desktop/HotFixDemo/Assets/StreamingAssets/Windows/modle/fruit.assetbundle
